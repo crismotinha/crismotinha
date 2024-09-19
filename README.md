@@ -1,6 +1,6 @@
 # Hi, I'm Cris Motinha
 
-Since I started programming 5 years ago, I've used my GitHub account to version all sort of code: my personal studies, college assignments (I have a Bachelor of Science in Information Systems from [the Fluminense Federal University](http://www.uff.br/)) and even birthday gifts. Here's a summary so you can browse easily through my repositories :)
+Since I started programming some years ago, I've used my GitHub account to version all sort of code: my personal studies, college assignments (I have a Bachelor of Science in Information Systems from [the Fluminense Federal University](http://www.uff.br/)) and even birthday gifts. Here's a summary so you can browse easily through my repositories :)
 
 ### College assignments
 Unfortunally, most of these projects doesn't have a readme file, if you want to know more [email me](#contact-info) or open an issue :)
